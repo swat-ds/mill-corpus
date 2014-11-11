@@ -1,0 +1,1136 @@
+<span id="chapter-1.xhtml"></span>
+
+<div class="body" style="white-space:pre-wrap">
+
+### <span class="c1">Editor’s</span> Introduction
+
+ 
+
+John Stuart Mill (1806-1873) was the precocious child of the
+Philosophical Radical and Benthamite James Mill. He was taught Greek,
+Latin, and political economy at an early age and spent his youth in the
+company of the Philosophic Radicals, Benthamites and utilitarians who
+gathered around his father James. J.S. Mill went on to become a
+journalist, Member of Parliament, political economist, and philosopher
+and is regarded as one of the most significant English classical
+liberals of the 19th century. His important books include <span
+class="c2">A System of Logic</span> (1843), <span class="c2">The
+Principles of Political Economy: with some of their applications to
+social philosophy</span> (1848), <span class="c2">On Liberty</span>
+(1859), <span class="c2">Considerations on Representative
+Government</span> (1861), <span class="c2">Utilitarianism</span> (1863),
+and <span class="c2">The Subjection of Women</span> (1869).
+
+Mill was only 25 when he wrote this essay (he refers to himself in
+passing in the essay as “a man of six and twenty years”) and he was
+still very much under the influence of the Benthamites led by his father
+James Mill. The latter had led the push for the democratic reform of the
+British political system and they were on the verge of achieving the
+first major step towards that goal with the passage of the First Reform
+Act of June 1832 which expanded the English electorate to include middle
+class voters. This ushered in a period of liberal reform which was
+crowned by the repeal of the protectionist Corn Laws in 1846. When Mill
+wrote “The Spirit of the Age” he could sense that British society was
+about to enter a period of reform which would be dominated by the
+politically active middle class guided by classical liberal ideas.
+
+This extract includes the first and fifth parts of a long essay which
+appeared in <span class="c2">The Examiner</span> between January and May
+1831. Mill believed that English society had entered an “age of
+transition” in which the ideas and the ruling elites of the old society
+were no longer able to provide the direction the country needed. New
+ideas and new men were about to step forward and introduce “one of the
+greatest revolutions of which history has preserved remembrance, in the
+human mind, and the whole constitution of human society.” Of course,
+Mill thought that he would be one of those who would assist in the
+creation of that new society with his writings and his political
+activity in the British parliament.
+
+ 
+
+ 
+
+“A change has taken place in the human mind; a change which, being
+effected by insensible gradations, and without noise, had already
+proceeded far before it was generally perceived. When the fact disclosed
+itself, thousands awoke as from a dream. They knew not what processes
+had been going on in the minds of others, or even in their own, until
+the change began to invade outward objects; and it became clear that
+those were indeed new men, who insisted upon being governed in a new
+way.
+
+But mankind are now conscious of their new position. The conviction is
+already not far from being universal, that the times are pregnant with
+change; and that the nineteenth century will be known to posterity as
+the era of one of the greatest revolutions of which history has
+preserved the remembrance, in the human mind, and in the whole
+constitution of human society.”
+
+ 
+
+ 
+
+\
+
+</div>
+
+<span id="chapter-2.xhtml"></span>
+
+<div class="body" style="white-space:pre-wrap">
+
+### <span class="c2">The Spirit of the Age</span> (1831)<span id="chapter-2.xhtml#footnote-ref1">[<span class="c3">^1^</span>](#footnotes.xhtml#footnote1)</span>
+
+ 
+
+##### <span id="chapter-2.xhtml#chapter-2-sh1"></span>PART I [EXAMINER, 9 JAN., 1831]
+
+ 
+
+The “spirit of the age” is in some measure a novel expression. I do not
+believe that it is to be met with in any work exceeding fifty years in
+antiquity. The idea of comparing one’s own age with former ages, or with
+our notion of those which are yet to come, had occurred to philosophers;
+but it never before was itself the dominant idea of any age.
+
+ 
+
+“Mankind are then divided, into those who are still what they were, and
+those who have changed: into the men of the present age, and the men of
+the past. To the former, the spirit of the age is a subject of
+exultation; to the latter, of terror; to both, of eager and anxious
+interest.”
+
+ 
+
+It is an idea essentially belonging to an age of change. Before men
+begin to think much and long on the peculiarities of their own times,
+they must have begun to think that those times are, or are destined to
+be, distinguished in a very remarkable manner from the times which
+preceded them. Mankind are then divided, into those who are still what
+they were, and those who have changed: into the men of the present age,
+and the men of the past. To the former, the spirit of the age is a
+subject of exultation; to the latter, of terror; to both, of eager and
+anxious interest. The wisdom of ancestors, and the march of intellect,
+are bandied from mouth to mouth; each phrase originally an expression of
+respect and homage, each ultimately usurped by the partisans of the
+opposite catch-word, and in the bitterness of their spirit, turned into
+the sarcastic jibe of hatred and insult.
+
+The present times possess this character. A change has taken place in
+the human mind; a change which, being effected by insensible gradations,
+and without noise, had already proceeded far before it was generally
+perceived. When the fact disclosed itself, thousands awoke as from a
+dream. They knew not what processes had been going on in the minds of
+others, or even in their own, until the change began to invade outward
+objects; and it became clear that those were indeed new men, who
+insisted upon being governed in a new way.
+
+ 
+
+“A change has taken place in the human mind; a change which, being
+effected by insensible gradations, and without noise, had already
+proceeded far before it was generally perceived. When the fact disclosed
+itself, thousands awoke as from a dream. They knew not what processes
+had been going on in the minds of others, or even in their own, until
+the change began to invade outward objects; and it became clear that
+those were indeed new men, who insisted upon being governed in a new
+way.”
+
+ 
+
+But mankind are now conscious of their new position. The conviction is
+already not far from being universal, that the times are pregnant with
+change; and that the nineteenth century will be known to posterity as
+the era of one of the greatest revolutions of which history has
+preserved the remembrance, in the human mind, and in the whole
+constitution of human society. Even the religious world teems with new
+interpretations of the Prophecies, foreboding mighty changes near at
+hand.[1] It is felt that men are henceforth to be held together by new
+ties, and separated by new barriers; for the ancient bonds will now no
+longer unite, nor the ancient boundaries confine. Those men who carry
+their eyes in the back of their heads and can see no other portion of
+the destined track of humanity than that which it has already travelled,
+imagine that because the old ties are severed mankind henceforth are not
+to be connected by any ties at all; and hence their affliction, and
+their awful warnings. For proof of this assertion, I may refer to the
+gloomiest book ever written by a cheerful man—Southey’s <span
+class="c2">Colloquies on the Progress and Prospects of Society</span>; a
+very curious and not uninstructive exhibition of one of the points of
+view from which the spirit of the age may be contemplated.[2] They who
+prefer the ravings of a party politician to the musings of a recluse,
+may consult a late article in <span class="c2">Blackwood’s
+Magazine</span>, under the same title which I have prefixed to this
+paper.[3] For the reverse of the picture, we have only to look into any
+popular newspaper or review.
+
+ 
+
+“The nineteenth century will be known to posterity as the era of one of
+the greatest revolutions of which history has preserved the remembrance,
+in the human mind, and in the whole constitution of human society.”
+
+ 
+
+Amidst all this indiscriminate eulogy and abuse, these undistinguishing
+hopes and fears, it seems to be a very fit subject for philosophical
+inquiry, what the spirit of the age really is; and how or wherein it
+differs from the spirit of any other age. The subject is deeply
+important: for, whatever we may think or affect to think of the present
+age, we cannot get out of it; we must suffer with its sufferings, and
+enjoy with its enjoyments; we must share in its lot, and, to be either
+useful or at ease, we must even partake its character. No man whose good
+qualities were mainly those of another age, ever had much influence on
+his own. And since every age contains in itself the germ of all future
+ages as surely as the acorn contains the future forest, a knowledge of
+our own age is the fountain of prophecy—the only key to the history of
+posterity. It is only in the present that we can know the future; it is
+only through the present that it is in our power to influence that which
+is to come.
+
+ 
+
+“And since every age contains in itself the germ of all future ages as
+surely as the acorn contains the future forest, a knowledge of our own
+age is the fountain of prophecy—the only key to the history of
+posterity. It is only in the present that we can know the future; it is
+only through the present that it is in our power to influence that which
+is to come.”
+
+ 
+
+Yet, because our own age is <span class="c2">familiar</span> to us, we
+are presumed, if I may judge from appearances, to know it by nature. A
+statesman, for example, if it be required of him to have studied any
+thing at all (which, however, is more than I would venture to affirm) is
+supposed to have studied history—which is at best the spirit of ages
+long past, and more often the mere inanimate carcass without the spirit:
+but is it ever asked (or to whom does the question ever occur?) whether
+he understands his own age? Yet that also is history, and the most
+important part of history, and the only part which a man may know and
+understand, with absolute certainty, by using the proper means. He may
+learn in a morning’s walk through London more of the history of England
+during the nineteenth century, than all the professed English histories
+in existence will tell him concerning the other eighteen: for, the
+obvious and universal facts, which every one sees and no one is
+astonished at, it seldom occurs to any one to place upon record; and
+posterity, if it learn the rule, learns it, generally, from the notice
+bestowed by contemporaries on some accidental exception. Yet are
+politicians and philosophers perpetually exhorted to judge of the
+present by the past, when the present alone affords a fund of materials
+for judging, richer than the whole stores of the past, and far more
+accessible.
+
+But it is unadvisable to dwell longer on this topic, lest we should be
+deemed studiously to exaggerate that want, which we desire that the
+reader should think ourselves qualified to supply. It were better,
+without further preamble, to enter upon the subject, and be tried by our
+ideas themselves, rather than by the need of them.
+
+The first of the leading peculiarities of the present age is, that it is
+an age of transition. Mankind have outgrown old institutions and old
+doctrines, and have not yet acquired new ones. When we say outgrown, we
+intend to prejudge nothing. A man may not be either better or happier at
+six-and-twenty, than he was at six years of age: but the same jacket
+which fitted him then, will not fit him now.
+
+ 
+
+“The first of the leading peculiarities of the present age is, that it
+is an age of transition. Mankind have outgrown old institutions and old
+doctrines, and have not yet acquired new ones... (These old
+institutions) are vicious both in the outline and in the details, and
+that they shall be renovated, and purified, and made fit for civilized
+man,”
+
+ 
+
+The prominent trait just indicated in the character of the present age,
+was obvious a few years ago only to the more discerning: at present it
+forces itself upon the most inobservant. Much might be said, and shall
+be said on a fitting occasion, of the mode in which the old order of
+things has become unsuited to the state of society and of the human
+mind. But when almost every nation on the continent of Europe has
+achieved, or is in the course of rapidly achieving, a change in its form
+of government; when our own country, at all former times the most
+attached in Europe to its old institutions, proclaims almost with one
+voice that they are vicious both in the outline and in the details, and
+that they <span class="c2">shall</span> be renovated, and purified, and
+made fit for civilized man, we may assume that a part of the effects of
+the cause just now pointed out, speak sufficiently loudly for
+themselves. To him who can reflect, even these are but indications which
+tell of a more vital and radical change. Not only, in the conviction of
+almost all men, things as they are, are wrong [4] —but, according to
+that same conviction, it is not by remaining in the old ways that they
+can be set right. Society demands, and anticipates, not merely a new
+machine, but a machine constructed in another manner. Mankind will not
+be led by their old maxims, nor by their old guides; and they will not
+choose either their opinions or their guides as they have done
+heretofore. The ancient constitutional texts were formerly spells which
+would call forth or allay the spirit of the English people at pleasure:
+what has become of the charm? Who can hope to sway the minds of the
+public by the old maxims of law, or commerce, or foreign policy, or
+ecclesiastical policy? Whose feelings are now roused by the mottoes and
+watch-words of Whig and Tory? And what Whig or Tory could command ten
+followers in the warfare of politics by the weight of his own personal
+authority? Nay, what landlord could call forth his tenants, or what
+manufacturer his men? Do the poor respect the rich, or adopt their
+sentiments? Do the young respect the old, or adopt their sentiments? Of
+the feelings of our ancestors it may almost be said that we retain only
+such as are the natural and necessary growth of a state of human
+society, however constituted; and I only adopt the energetic expression
+of a member of the House of Commons, less than two years ago, in saying
+of the young men, even of that rank in society, that they are ready to
+advertise for opinions.
+
+Since the facts are so manifest, there is the more chance that a few
+reflections on their causes, and on their probable consequences, will
+receive whatever portion of the reader’s attention they may happen to
+deserve.
+
+With respect, then, to the discredit into which old institutions and old
+doctrines have fallen, I may premise, that this discredit is, in my
+opinion, perfectly deserved.<span class="c4"> </span>Having said this, I
+may perhaps hope, that no perverse interpretation will be put upon the
+remainder of my observations, in case some of them should not be quite
+so conformable to the sentiments of the day as my commencement might
+give reason to expect. The best guide is not he who, when people are in
+the right path, merely praises it, but he who shows them the pitfalls
+and the precipices by which it is endangered; and of which, as long as
+they were in the wrong road, it was not so necessary that they should be
+warned.
+
+There is one very easy, and very pleasant way of accounting for this
+general departure from the modes of thinking of our ancestors: so easy,
+indeed, and so pleasant, especially to the hearer, as to be very
+convenient to such writers for hire or for applause, as address
+themselves not to the men of the age that is gone by, but to the men of
+the age which has commenced. This explanation is that which ascribes the
+altered state of opinion and feeling to the growth of the human
+understanding. According to this doctrine, we reject the sophisms and
+prejudices which misled the uncultivated minds of our ancestors, because
+we have learnt too much, and have become too wise, to be imposed upon by
+such sophisms and such prejudices. It is our knowledge and our sagacity
+which keep us free from these gross errors. We have now risen to the
+capacity of perceiving our true interests; and it is no longer in the
+power of impostors and charlatans to deceive us.
+
+I am unable to adopt this theory. Though a firm believer in the
+improvement of the age, I do not believe that its improvement has been
+of this kind. The grand achievement of the present age is the <span
+class="c2">diffusion</span> of <span class="c2">superficial</span>
+knowledge; and that surely is no trifle, to have been accomplished by a
+single generation. The persons who are in possession of knowledge
+adequate to the formation of sound opinions by their own lights, form
+also a constantly increasing number, but hitherto at all times a small
+one. It would be carrying the notion of the march of intellect too far,
+to suppose that an average man of the present day is superior to the
+greatest men of the beginning of the eighteenth century; yet they <span
+class="c2">held</span> many opinions which we are fast renouncing. The
+intellect of the age, therefore, is not the cause which we are in search
+of. I do not perceive that, in the mental training which has been
+received by the immense majority of the reading and thinking part of my
+countrymen, or in the kind of knowledge and other intellectual aliment
+which has been supplied to them, there is any thing likely to render
+them much less accessible to the influence of imposture and
+charlatanerie than there ever was. The Dr. Eadys still dupe the lower
+classes, the St. John Longs the higher. [5] and it would not be
+difficult to produce the political and literary antitypes of both.
+Neither do I see, in such observations as I am able to make upon my
+contemporaries, evidence that they have any principle within them which
+renders them much less liable now than at any former period to be misled
+by sophisms and prejudices. All I see is, that the opinions which have
+been transmitted to them from their ancestors, are not the kind of
+sophisms and prejudices which are fitted to possess any considerable
+ascendancy in their altered frame of mind. And I am rather inclined to
+account for this fact in a manner not reflecting such extraordinarily
+great honour upon the times we live in, as would result from the theory
+by which all is ascribed to the superior expansion of our
+understandings.
+
+The intellectual tendencies of the age, considered both on the
+favourable and on the unfavourable side, it will be necessary, in the
+prosecution of the present design, to review and analyse in some detail.
+For the present it may be enough to remark, that it is seldom safe to
+ground a positive estimate of a character upon mere negatives: and that
+the faults or the prejudices, which a person, or an age, or a nation
+<span class="c2">has not,</span> go but a very little way with a wise
+man towards forming a high opinion of them. A person may be without a
+single prejudice, and yet utterly unfit for every purpose in nature. To
+have erroneous convictions is one evil; but to have no strong or
+deep-rooted convictions at all, is an enormous one. Before I compliment
+either a man or a generation upon having got rid of their prejudices, I
+require to know what they have substituted in lieu of them.
+
+ 
+
+“Now, it is self-evident that no fixed opinions have yet generally
+established themselves in the place of those which we have abandoned;
+that no new doctrines, philosophical or social, as yet command, or
+appear likely soon to command, an assent at all comparable in unanimity
+to that which the ancient doctrines could boast of while they continued
+in vogue.”
+
+ 
+
+Now, it is self-evident that no fixed opinions have yet generally
+established themselves in the place of those which we have abandoned;
+that no new doctrines, philosophical or social, as yet command, or
+appear likely soon to command, an assent at all comparable in unanimity
+to that which the ancient doctrines could boast of while they continued
+in vogue. So long as this intellectual anarchy shall endure, we may be
+warranted in believing that we are in a fair way to become wiser than
+our forefathers; but it would be premature to affirm that we are already
+wiser. We have not yet advanced beyond the unsettled state, in which the
+mind is, when it has recently found itself out in a grievous error, and
+has not yet satisfied itself of the truth. The men of the present day
+rather incline to an opinion than embrace it; few, except the very
+penetrating, or the very presumptuous, have full confidence in their own
+convictions. This is not a state of health, but, at the best, of
+convalescence. It is a necessary stage in the progress of civilization,
+but it is attended with numerous evils; as one part of a road may be
+rougher or more dangerous than another, although every step brings the
+traveller nearer to his desired end.
+
+Not increase of wisdom, but a cause of the reality of which we are
+better assured, may serve to account for the decay of prejudices; and
+this is, increase of discussion. Men may not reason, better, concerning
+the great questions in which human nature is interested, but they reason
+more. Large subjects are discussed more, and longer, and by more minds.
+Discussion has penetrated deeper into society; and if no greater numbers
+than before have attained the higher degrees of intelligence, fewer
+grovel in that state of abject stupidity, which can only co-exist with
+utter apathy and sluggishness.
+
+ 
+
+“Not increase of wisdom, but a cause of the reality of which we are
+better assured, may serve to account for the decay of prejudices; and
+this is, increase of discussion. Men may not reason, better, concerning
+the great questions in which human nature is interested, but they reason
+more.”
+
+ 
+
+The progress which we have made, is precisely that sort of progress
+which increase of discussion suffices to produce, whether it be attended
+with increase of wisdom or no. To discuss, and to question established
+opinions, are merely two phrases for the same thing. When all opinions
+are questioned, it is in time found out what are those which will not
+bear a close examination. Ancient doctrines are then put upon their
+proofs; and those which were originally errors, or have become so by
+change of circumstances, are thrown aside. Discussion does this. It is
+by discussion, also, that true opinions are discovered and diffused. But
+this is not so certain a consequence of it as the weakening of error. To
+be rationally assured that a given doctrine is <span
+class="c2">true,</span> it is often necessary to examine and weigh an
+immense variety of facts. One single well-established fact, clearly
+irreconcilable with a doctrine, is sufficient to prove that it is <span
+class="c2">false.</span> Nay, opinions often upset themselves by their
+own incoherence; and the impossibility of their being well-founded may
+admit of being brought home to a mind not possessed of so much as one
+positive truth. All the inconsistencies of an opinion with itself, with
+obvious facts, or even with other prejudices, discussion evolves and
+makes manifest: and indeed this mode of refutation, requiring less study
+and less real knowledge than any other, is better suited to the
+inclination of most disputants. But the moment, and the mood of mind, in
+which men break loose from an error, is not, except in natures very
+happily constituted, the most favourable to those mental processes which
+are necessary to the investigation of truth. What led them wrong at
+first, was generally nothing else but the incapacity of seeing more than
+one thing at a time; and that incapacity is apt to stick to them when
+they have turned their eyes in an altered direction. They usually
+resolve that the new light which has broken in upon them shall be the
+sole light; and they wilfully and passionately blow out the ancient
+lamp, which, though it did not show them what they now see, served very
+well to enlighten the objects in its immediate neighbourhood. Whether
+men adhere to old opinions or adopt new ones, they have in general an
+invincible propensity to split the truth, and take half, or less than
+half of it; and a habit of erecting their quills and bristling up like a
+porcupine against any one who brings them the other half, as if he were
+attempting to deprive them of the portion which they have.
+
+I am far from denying, that, besides getting rid of error, we are also
+continually enlarging the stock of positive truth. In physical science
+and art, this is too manifest to be called in question; and in the moral
+and social sciences, I believe it to be as undeniably true. The wisest
+men in every age generally surpass in wisdom the wisest of any preceding
+age, because the wisest men possess and profit by the constantly
+increasing accumulation of the ideas of all ages: but the multitude (by
+which I mean the majority of all ranks) have the ideas of their own age,
+and no others: and if the multitude of one age are nearer to the truth
+than the multitude of another, it is only in so far as they are guided
+and influenced by the authority of the wisest among them.
+
+This is connected with certain points which, as it appears to me, have
+not been sufficiently adverted to by many of those who hold, in common
+with me, the doctrine of the indefinite progressiveness of the human
+mind; but which must be understood, in order correctly to appreciate the
+character of the present age, as an age of moral and political
+transition. These, therefore, I shall attempt to enforce and illustrate
+in the next paper. [6]
+
+A.B.
+
+ 
+
+### Notes
+
+ 
+
+[1] For example, <span class="c2">Babylon and Infidelity Foredoomed of
+God: A Discourse on the Prophecies of Daniel and the Apocalypse, Which
+Relate to These Latter Times, and Until the Second Advent</span>
+(Glasgow: Collins, 1828), by Edward Irving (1792-1834), the popular
+preacher, early friend of Thomas Carlyle; <span class="c2">Dialogues on
+Prophecy,</span> 3 vols. (London: Nisbet, 1827-29), comp. Henry Drummond
+(1786-1860), banker and M.P. (1810-13, 1847-60), who endowed the chair
+of Political Economy at Oxford (see Nos. 69 and 110), and was a founder
+of the Irvingite church; and <span class="c2">The Abominations of
+Babylon</span> (London: Hatchard, 1826), and <span class="c2">Popular
+Lectures on the Prophecies Relative to the Jewish Nation</span> (London:
+Hatchard, 1830), both by Hugh MacNeile (1795-1879), Rector of Albury, at
+this time an Irvingite.
+
+[2] <span class="c2">Sir Thomas More; or, Colloquies on the Progress and
+Prospects of Society,</span> 2 vols. (London: Murray, 1829), by Robert
+Southey (1774-1843), prolific poet and author, whom Mill met during this
+period at breakfast parties.
+
+[3] David Robinson (d. 1849), “Letter to Christopher North, Esquire, on
+the Spirit of the Age,” <span class="c2">Blackwood’s Edinburgh
+Magazine,</span> XXVIII (Dec. 1830), 900-20.
+
+[4] “Things as they are” became a catch-phrase for the Radicals, who
+probably took it from <span class="c2">Things As They Are; or, The
+Adventures of Caleb Williams,</span> 3 vols. (London: Crosby, 1794), by
+William Godwin (1756-1836), philosopher and political writer.
+
+[5] Eady, a notorious quack doctor and “wall-chalker,” formerly
+bankrupted when a linen-draper at St. Ives, had been subject to a
+successful action for recovery of £115/11/6 in 1824 (<span
+class="c2">Examiner,</span> 29 Feb., 1824, p. 142). John St. John Long
+(1798-1834) was a popular but untrained medical practitioner, with an
+office in Harley Street, whose treatments by “friction and corrosion”
+sometimes had unfortunate effects, leading to trials after the deaths of
+patients.
+
+[6] No. 77.
+
+ 
+
+ 
+
+##### <span id="chapter-2.xhtml#chapter-2-sh2"></span>PART V [Part 1] [EXAMINER, 15 MAY, 1831]
+
+ 
+
+In commencing this series of papers, I intended, and attempted, that the
+divisions of my discourse should correspond with those of my subject,
+and that each number should comprehend within its own limits all which
+was necessary to the expansion and illustration of one single idea. The
+nature of the publication, which, as being read by more persons capable
+of understanding the drift of such speculations (and by fewer, in
+proportion, who are unfit for them) than any other single work, I
+considered myself fortunate in being enabled to adopt as a vehicle for
+my ideas, compels me to limit the length of each article more than is
+compatible with my original plan. I can no longer always hope that every
+paper should be complete within itself; and the present number, had it
+appeared in its proper place, would have formed the continuation of the
+last.
+
+In endeavouring to give an intelligible notion of what I have termed the
+<span class="c2">natural</span> state of society, in respect of moral
+influence—namely, that state in which the opinions and feelings of the
+people are, with their voluntary acquiescence, formed <span
+class="c2">for</span> them, by the most cultivated minds which the
+intelligence and morality of the times call into existence; and in
+drawing attention to the striking differences between this <span
+class="c2">natural</span> state and our present <span
+class="c2">transitional</span> condition, in which there are no persons
+to whom the mass of the uninstructed habitually defer, and in whom they
+trust for finding the right, and for pointing it out; I have hitherto
+illustrated the former state only by the example of those commonwealths,
+in which the most qualified men are studiously picked out because of
+their qualifications, and invested with that worldly power, which, if it
+were in any other hands, would divide or eclipse their moral influence:
+but which, placed in theirs, and acting partly as a <span
+class="c2">certificate</span> of authority, and partly as a <span
+class="c2">cause,</span> tends naturally to render their power over the
+minds of their fellow-citizens paramount and irresistible.
+
+ 
+
+“... our present <span class="c2">transitional</span> condition, in
+which there are no persons to whom the mass of the uninstructed
+habitually defer, and in whom they trust for finding the right, and for
+pointing it out;”
+
+ 
+
+But it is not solely in such societies that there is found a united body
+of moral authority, sufficient to extort acquiescence from the
+uninquiring, or uninformed majority. It is found, likewise, in all
+societies where religion possesses a sufficient ascendancy, to subdue
+the minds of the possessors of worldly power, and where the spirit of
+the prevailing religion is such as excludes the possibility of material
+conflict of opinion among its teachers.
+
+These conditions exist among two great stationary communities—the
+Hindoos and the Turks; and are doubtless the chief cause which keeps
+those communities stationary. The same union of circumstances has been
+hitherto found only in one <span class="c2">progressive</span>
+society—but that, the greatest which had ever existed: Christendom in
+the middle ages.
+
+For many centuries, undivided moral influence over the nations of
+Europe, the unquestioned privilege of forming the opinions and feelings
+of the Christian world, was enjoyed, and most efficiently exercised by
+the Catholic clergy. Their word inspired in the rest of mankind the most
+fervent faith. It not only absolutely excluded doubt, but caused the
+doubter to be regarded with sentiments of profound abhorrence, which
+moralists had never succeeded in inspiring for the most revolting of
+crimes. It is certainly possible to feel perfectly sure of an opinion,
+without believing that whosoever doubts it will be damned, and should be
+burnt: and this last is by no means one of those peculiarities of a
+natural state of society which I am at all anxious to see restored. But
+the deep earnest feeling of firm and unwavering conviction, which it
+pre-supposes, we may, without being unreasonable, lament that it was
+impossible, and could not <span class="c2">but</span> be impossible, in
+the intellectual anarchy of a general revolution in opinion, to transfer
+unimpaired to the truth.
+
+The priesthood did not claim a right to dictate to mankind, either in
+belief or practice, beyond the province of religion and morals, but the
+political interests of mankind came not the less within their pale
+because they seldom assumed the authority to regulate those concerns by
+specific precepts. They gave the sanction of their irresistible
+authority to one comprehensive rule, that which enjoined unlimited
+obedience to the temporal sovereign: an obligation from which they
+absolved the conscience of the believer, only when the sovereign
+disputed their authority within their peculiar province: and in that
+case they were invariably triumphant, like all those to whom it is given
+to call forth the moral sentiments of mankind in all their energy,
+against the inducements of mere physical hopes and fears.
+
+The Catholic clergy, at the time when they possessed this undisputed
+authority in matters of conscience and belief, were, in point of fact,
+the fittest persons who <span class="c2">could</span> have possessed
+it—the then state of society, in respect of moral influence, answers to
+the description of a <span class="c2">natural</span> state.
+
+When we consider for how long a period the Catholic clergy were the only
+members of the European community who could even read; that they were
+the sole depositaries of all the treasures of thought, and reservoirs of
+intellectual delight, handed down to us from the ancients; that the
+sanctity of their persons permitted to them alone, among nations of
+semi-barbarians, the tranquil pursuit of peaceful occupations and
+studies; that, howsoever defective the morality which they taught, they
+had at least a mission for curbing the unruly passions of mankind, and
+teaching them to set a value upon a distant end, paramount to immediate
+temptations, and to prize gratifications consisting of mental feelings
+above bodily sensation; that (situate in the position of rivals to the
+temporal sovereign, drafted chiefly from the inferior classes of
+society, from men who otherwise would have been serfs, and the most
+lowly among them all having the road open before him even to the papal
+chair,) they had the strongest motives to avail themselves of the means
+afforded by Christianity, for inculcating the natural equality of
+mankind, and the superiority of love and sacrifice above mere courage
+and bodily prowess, for menacing the great with the only terrors to
+which they were accessible, and speaking to their consciences in the
+name of the only superior whom they acknowledged, in behalf of the
+low;—Reflecting on these things, I cannot persuade myself to doubt that
+the ascendancy of the Catholic clergy was to be desired, for that day,
+even by the philosopher; and that it has been a potent cause, if even it
+was not an indispensable condition, of the present civilization of
+Europe. Nor is this an apology for the vices of the Catholic religion:
+those vices were great and flagrant, and there was no natural connection
+between them and the more civilizing and humanizing features in which
+all that there was of good in it resided. We may regret that the
+influence of the priesthood was not superseded by a better influence:
+but where in those days did any such influence exist?
+
+ 
+
+“But the age of transition arrived. A time came when that which had
+overmatched and borne down the strongest obstacles to improvement,
+became itself incompatible with improvement. Mankind outgrew their
+religion, and that, too, at a period when they had not yet outgrown
+their government, because the texture of the latter was more yielding,
+and could be stretched.”
+
+ 
+
+I conclude, therefore, that, during a part of the middle ages, not only
+worldly power, as already shown, but moral influence also, was
+undisputedly exercised by the most competent persons; and that the
+conditions of a natural state of society were then fully realized.
+
+But the age of transition arrived. A time came when that which had
+overmatched and borne down the strongest obstacles to improvement,
+became itself incompatible with improvement. Mankind outgrew their
+religion, and that, too, at a period when they had not yet outgrown
+their government, because the texture of the latter was more yielding,
+and could be stretched. We all know how lamentably effectual an
+instrument the influence of the Catholic priesthood then became, for
+restraining that expansion of the human intellect, which could not any
+longer consist with their ascendancy, or with the belief of the
+doctrines which they taught.
+
+The more advanced communities of Europe succeeded, after a terrific
+struggle, in effecting their total or partial emancipation: in some, the
+Reformation achieved a victory—in others, a toleration; while, by a fate
+unhappily too common, the flame which had been kindled where the pile
+awaited the spark, spread into countries where the materials were not
+yet sufficiently prepared; and instead of burning down the hateful
+edifice, it consumed all that existed capable of nourishing itself, and
+was extinguished. The germs of civilization to come were scorched up and
+destroyed; the hierarchy reigned stronger than ever, amidst the
+intellectual solitude which it had made: and the countries which were
+thus denuded of the means of further advancement, fell back into
+barbarism irretrievable except by foreign conquest. Such is the
+inevitable end, when, unhappily, changes to which the spirit of the age
+is favourable, can be successfully resisted. Civilization becomes the
+terror of the ruling powers, and that they may retain their seat, it
+must be their deliberate endeavour to barbarize mankind. There has been,
+since that day, one such attempt, and only one, which has had a
+momentary success: it was that of a man in whom all the evil influences
+of his age were concentered with an intensity and energy truly terrific,
+less tempered by any of its good influences than could appear possible
+in the times in which he lived—I need scarcely say that I refer to
+Napoleon. May his abortive effort to uncivilize human nature, to
+uncultivate the mind of man, and turn it into a desolate waste, be the
+last!
+
+It remains to trace the history of moral influence in the nations of
+Europe, subsequently to the Reformation.
+
+ 
+
+ 
+
+##### <span id="chapter-2.xhtml#chapter-2-sh3"></span>PART V [Part 2] [EXAMINER, 29 MAY, 1831]
+
+ 
+
+In the countries which remained Catholic, but where the Catholic
+hierarchy did not retain sufficient moral ascendancy to succeed in
+stopping the progress of civilization, the church was compelled, by the
+decline of its separate influence, to link itself more and more closely
+with the temporal sovereignty. And thus did it retard its own downfal,
+until the spirit of the age became too strong for the two united, and
+both fell together to the ground.
+
+I have said that the three sources of moral influence are, supposed
+wisdom and virtue, the sacerdotal office, and the possession of worldly
+power. But in Protestant countries, the authority of the ministers of
+religion, considered as an independent source of moral influence, must
+be blotted out from the catalogue. None of the churches which were the
+successors of the Catholic church in the nations in which the
+Reformation prevailed, succeeded, as churches, to any portion of the
+moral influence of their predecessor. The reason is, that no Protestant
+church ever claimed a special mission from the Deity to itself; or ever
+numbered among the obligations of religion, that of receiving its
+doctrines from teachers accredited by that particular church. The
+Catholics received the priest from God, and their religion from the
+priest. But in the Protestant sects, you resorted to the teacher,
+because you had already decided, or because it had been decided for you,
+that you would adopt his religion. In the popular religions you chose
+your own creed, and having so done, you naturally had recourse to its
+ministers;—in the state religions, your creed was chosen for you by your
+worldly superiors, and you were instigated by conscience, or, it may be,
+urged by motives of a more worldly nature, to resort for religious
+instruction to the minister of their appointment.
+
+Every head of a family, even of the lowest rank, in Scotland, is a
+theologian; he discusses points of doctrine with his neighbours, and
+expounds the scripture to his family. He defers, indeed, though with no
+slavish deference, to the opinion of his minister; but in what capacity?
+only as a man whom his understanding owns as being at least more versed
+in the particular subject—as being probably a wiser, and possibly, a
+better man than himself. This is not the influence of an interpreter of
+religion, as such; it is that of a purer heart, and a more cultivated
+intelligence. It is not the ascendancy of a priest: it is the combined
+authority of a professor of religion, and an esteemed private friend.
+
+What I have said of the Scottish church, may be said of all Protestant
+churches, except state churches (which the Scottish church,
+notwithstanding its national endowment, is not). It may be said of all
+dissenters from our own establishment; except, indeed, those who inherit
+their religion, and adhere to it (not an uncommon case) as they would to
+any other family connexion. To the followers of the Church of England, a
+similar observation is wholly inapplicable: those excepted, who would
+abide by that communion for its doctrine, were it a dissenting sect. The
+people in general have not, nor ever had, any reason or motive for
+adhering to the established religion, except that it was the religion of
+their political superiors: and in the same ratio as their attachment to
+those superiors has declined, so has their adherence to the established
+church. From the time when the Church of England became firmly seated in
+its temporalities; from the period when its title to the fee-simple of
+our consciences acquired the sanctity of prescription, and when it was
+enabled to dispense with any support but what it derived from the stable
+foundations of the social fabric of which it formed a part; it sunk from
+its independent rank, into an integral part, or a kind of appendage, of
+the aristocracy. It merged into the higher classes: and what moral
+influence it possessed, was merely a portion of the general moral
+influence of temporal superiors.
+
+From the termination, therefore, of that period of intellectual
+excitement and hardy speculation which succeeded the crisis of the
+Reformation, and which was prolonged in our own country to the end of
+the seventeenth century;—that moral influence, that power over the minds
+of mankind, which had been for so many ages the unquestioned heritage of
+the Catholic clergy, passed into the hands of the wealthy classes, and
+became united with worldly power. The ascendancy of the aristocracy was
+not so dictatorial and enthralling as that of the Catholic priesthood;
+because it was backed in a far inferior degree by the terrors of
+religion: and because unity of doctrine was not maintained, by the same
+powerful means, among the dominant class itself. Nevertheless, the
+higher classes set the fashion, as in dress, so in opinion. The opinions
+generally received among them, were the prevalent ones throughout the
+rest of the nation. A bookish man here and there might have his
+individual theories, but they made no converts. All who had no opinions
+of their own, assumed those of their superiors. Few men wrote and
+published doctrines which the higher classes did not approve; or if
+published, their books were successfully cried down, or at best, were
+little read or attended to. Such questions, and such only, as divided
+the aristocracy, were (modestly) debated by the people: whose various
+denominations or divisions were each headed by an aristocratic <span
+class="c2">côterie.</span> Even the Dissenters made amends for their
+preference of a vulgar religion, by evincing a full measure of
+pliability and acquiescence in all that concerned politics and social
+life; though the banner they in general followed, was that of a section
+of the aristocracy less wedded than the other section to the monopoly of
+the sect which possessed advowsons and archbishoprics.
+
+The wealthy classes, then, from the revolution downwards, possessed all
+that existed both of moral authority and worldly power. Under their
+influence grew up the received doctrines of the British constitution;
+the opinions, respecting the proper limits of the powers of government,
+and the proper mode of constituting and administering it, which were
+long characteristic of Englishmen. Along with these arose a vast variety
+of current opinions respecting morality, education, and the structure of
+society. And feelings in unison with those opinions, spread far, and
+took a deep root in the English mind.
+
+ 
+
+“The government of the wealthy classes was, after all, the government of
+an irresponsible few; it therefore swarmed with abuses.”
+
+ 
+
+At no time, during this period, could the predominant class be said,
+with truth, to comprise among its members all the persons qualified to
+govern men’s minds, or to direct their temporal interests, whom the
+state of society afforded. As a whole, however, that class contained,
+for a long time, a larger share of civilization and mental culture, than
+all other classes taken together. The difficulties, to men of merit and
+energy, of lifting themselves into that class, were not insuperable; and
+the leading and active spirits among the governing body, had capacity to
+comprehend intellectual superiority, and to value it. The conditions,
+therefore, of a natural state of society were for some time, upon the
+whole, tolerably well fulfilled.
+
+ 
+
+“I believe it would be impossible to mention any portion whatever of the
+business of government (except some parts of the defence of the country
+against external enemies), of which the exact counterpart is not, in
+some instance or other, performed by a committee chosen by the people
+themselves: performed with less means, and under incomparably greater
+difficulties, but performed unexceptionably, and to the general
+satisfaction of the persons interested.”
+
+ 
+
+But they have now ceased to be fulfilled. The government of the wealthy
+classes was, after all, the government of an irresponsible few; it
+therefore swarmed with abuses. Though the people, by the growth of their
+intelligence, became more and more sensible of whatever was vicious in
+their government, they might possibly have borne with it, had they
+themselves remained as they were formerly, unfit, and conscious of their
+unfitness, for the business of government. But the comparative freedom
+of the practical administration of our Constitution—the extensive
+latitude of action which it allowed to the energies of
+individuals—enabled the people to train themselves in every habit
+necessary for self-government; for the rational management of their own
+affairs. I believe it would be impossible to mention any portion
+whatever of the business of government (except some parts of the defence
+of the country against external enemies), of which the exact counterpart
+is not, in some instance or other, performed by a committee chosen by
+the people themselves: performed with less means, and under incomparably
+greater difficulties, but performed unexceptionably, and to the general
+satisfaction of the persons interested. It is notorious that much of the
+most important part of what in most other countries composes the
+business of government, is here performed wholly by voluntary
+associations: and other portions are done by the government in so clumsy
+and slovenly a manner, that it is found necessary to have recourse to
+voluntary associations as a subsidiary resource.
+
+ 
+
+“It is notorious that much of the most important part of what in most
+other countries composes the business of government, is here performed
+wholly by voluntary associations”
+
+ 
+
+When the people were thus trained to self-government, and had learned by
+experience that they were fit for it, they could not continue to suppose
+that none but persons of rank and fortune were entitled to have a voice
+in the government, or were competent to criticise its proceedings. The
+superior capacity of the higher ranks for the exercise of worldly power
+is now a broken spell.
+
+It <span class="c2">was</span> in the power of those classes, possessed
+as they were of leisure and boundless opportunities of mental culture,
+to have kept themselves on the level of the most advanced intellects of
+the age; not to have been overtopped by the growth around them of a mass
+of intelligence, superior, on the average, to their own. They might also
+have preserved the confidence of the people in the integrity of their
+purposes, by abating each abuse, in proportion as the public conscience
+rose against it. They might thus have retained, in right of their virtue
+and intellect, that moral ascendancy which an intelligent people never
+long continues to yield to mere power. But they have flung away their
+advantages.
+
+I have already adverted to the decline of the higher classes in active
+talent, as they became enervated by lazy enjoyment. In the same ratio in
+which they have advanced in humanity and refinement, they have fallen
+off in energy of intellect and strength of will. Many of them were
+formerly versed in business: and into the hands of such, the remainder
+committed the management of the nation’s affairs. Now, the men of
+hereditary wealth are mostly inexperienced in business, and unfit for
+it. Many of them formerly knew life and the world: but their knowledge
+of life is now little more than the knowledge of two or three hundred
+families, with whom they are accustomed to associate; and it may be
+safely asserted, that not even a fellow of a college is more ignorant of
+the world, or more grossly mistakes the signs of the times, than an
+English nobleman. Their very opinions,—which, before they had passed
+into aphorisms, were the result of choice, and something like an act of
+the intelligence,—are now merely hereditary. Their minds were once
+active—they are now passive: they once generated impressions—they now
+merely take them. What are now their political maxims? Traditional
+texts, relating, directly or indirectly, to the privileges of their
+order, and to the exclusive fitness of men of their own sort for
+governing. What is their public virtue? Attachment to these texts, and
+to the prosperity and grandeur of England, on condition that she shall
+never swerve from them; idolatry of certain abstractions, called church,
+constitution, agriculture, trade, and others: by dint of which they have
+gradually contrived, in a manner, to exclude from their minds the very
+idea of their living and breathing fellow-citizens, as the subjects of
+moral obligation in their capacity of rulers. They love their country as
+Bonaparte loved his army—for whose glory he felt the most ardent zeal,
+at a time when all the men who composed it, one with another, were
+killed off every two or three years. They do not love England as one
+loves human beings, but as a man loves his house or his acres.
+
+Being such persons as has now been described, and being at last
+completely found out by the more intelligent, they no longer retain
+sufficient moral influence to give, as heretofore, vogue and currency to
+their opinions. But they retain—and the possessors of worldly power must
+always retain—enough of that influence, to prevent any opinions, which
+they do not acknowledge, from passing into received doctrines. They
+must, therefore, be divested of the monopoly of worldly power, ere the
+most virtuous and best-instructed of the nation will acquire that
+ascendancy over the opinions and feelings of the rest, by which alone
+England can emerge from this crisis of transition, and enter once again
+into a natural state of society.
+
+ 
+
+ 
+
+<span class="c4">“</span>They must, therefore, be divested of the
+monopoly of worldly power, ere the most virtuous and best-instructed of
+the nation will acquire that ascendancy over the opinions and feelings
+of the rest, by which alone England can emerge from this crisis of
+transition, and enter once again into a natural state of society.”
+
+ 
+
+A few months before the first of these papers was written, it would have
+seemed a paradox to assert that the present aera is one of moral and
+social transition. The same proposition now seems almost the tritest of
+truisms. The revolution which had already taken place in the human mind,
+is rapidly shaping external things to its own form and proportions.
+
+That we are in a state of transition, is a point which needs no further
+illustration. That the passage we are in the midst of, will conduct us
+to a healthier state, has perhaps been rendered probable in the
+preceding papers, to some few who might otherwise have questioned it.
+
+ 
+
+“The revolution which had already taken place in the human mind, is
+rapidly shaping external things to its own form and proportions... the
+futurity ... awaits us.”
+
+ 
+
+But it greatly imports us to obtain a far deeper insight into the
+futurity which awaits us, and into the means by which the blessings of
+that futurity may be best improved, and its dangers avoided.
+
+How shall we attain this insight? By a careful survey of the properties
+which are characteristic of the English national mind, in the present
+age—for on these the future fate of our country must depend.
+
+But “fit audience,” even “though few,’ [1] cannot be found for such
+discussions, at a moment when the interests of the day and of the hour
+naturally and properly engross every mind. The sequel of these papers
+must therefore be postponed until the interval of repose, after the
+present bustle and tumult. I shall resume my subject as early as
+possible after the passing of the Reform Bill. [2]
+
+ 
+
+### Notes
+
+ 
+
+[1] John Milton (1608-74), <span class="c2">Paradise Lost</span> (1667),
+Bk. VII, 1. 31; in <span class="c2">The Poetical Works</span> (London:
+Tonson, 1695), p. 180.
+
+[2] The elections returned a substantial majority for Grey and the
+Reform Bill. After Parliament resumed on 14 June, the second version was
+brought in, “A Bill to Amend the Representation of the People in England
+and Wales,” 2 William IV (25 June, 1831), <span class="c2">PP,</span>
+1831, III, 9-46.
+
+ 
+
+ 
+
+\
+
+</div>
+
+<span id="chapter-3.xhtml"></span>
+
+<div class="body" style="white-space:pre-wrap">
+
+### Further Information
+
+ 
+
+##### <span id="chapter-3.xhtml#chapter-3-sh1"></span>Source
+
+The edition used for this extract: “The Spirit of the Age” (<span
+class="c2">The Examiner</span>, 1831) in <span class="c2">The Collected
+Works of John Stuart Mill, Volume XXII - Newspaper Writings December
+1822 - July 1831 Part I,</span> ed.  Ann P. Robson and John M. Robson,
+Introduction by Ann P. Robson and John M. Robson (Toronto: University of
+Toronto Press, London: Routledge and Kegan Paul, 1986). Part I (9 Jan.
+1831) \<http://oll.libertyfund.org/title/256/50800\>, Part V (1) (15
+May, 1831) \<http://oll.libertyfund.org/title/256/50860\>, Part V (2)
+(29 May, 1831) \<http://oll.libertyfund.org/title/256/50868\>.
+
+Copyright: The online edition of the <span class="c2">Collected
+Works</span> is published under licence from the copyright holder, The
+University of Toronto Press. ©2006 The University of Toronto Press. All
+rights reserved. No part of this material may be reproduced in any form
+or medium without the permission of The University of Toronto Press.
+
+ 
+
+##### <span id="chapter-3.xhtml#chapter-3-sh2"></span>Further Reading
+
+Other works by John Stuart Mill (1806-1873)
+\<oll.libertyfund.org/person/21\>.
+
+School of Thought: Utilitarians ???
+
+ 
+
+ 
+
+“The distinctive principle of Western social philosophy is
+individualism. It aims at the creation of a sphere in which the
+individual is free to think, to choose, and to act without being
+restrained by the interference of the social apparatus of coercion and
+oppression, the State.”\
+[Ludwig von Mises, “Liberty and Property” (1958)]
+
+ 
+
+ 
+
+<div
+style="display:inline-block;vertical-align:baseline;width:18.162%;">
+
+![image.png](images/image.png)
+
+</div>
+
+</p>
+##### <span id="chapter-3.xhtml#chapter-3-sh3"></span>About the Best of the OLL
+
+<span class="c2">The Best of the Online Library of Liberty</span> is a
+collection of some of the most important material in the Online Library
+of Liberty. They are chapter length extracts which have been formatted
+as pamphlets in <span class="c4">PDF, </span> <span
+class="c4">ePub</span>, and <span class="c4">Kindle</span> formats for
+easier distribution. These extracts are designed for use in the
+classroom and discussion groups, or material for a literature table for
+outreach. The full list can be found here
+\<oll.libertyfund.org/title/2465\>.
+
+A subset of <span class="c2">The Best of the OLL</span> is <span
+class="c2">The Best of Bastiat</span> which is a collection of some of
+the best material in Liberty Fund's 6 volume edition of <span
+class="c2">The Collected Works of Frédéric Bastiat</span> (2011-). The
+full list can be found here \<oll.libertyfund.org/title/2477\>.
+
+Another useful sampling of the contents of the OLL website is the
+collection of weekly <span class="c2">Quotations about Liberty and
+Power</span> which are organized by themes such as Free Trade, Money and
+Banking, Natural Rights, and so on. See for example, Richard Cobden’s “I
+have a dream” speech \<oll.libertyfund.org/quote/326\>.
+
+ 
+
+##### <span id="chapter-3.xhtml#chapter-3-sh4"></span>Copyright and Fair Use
+
+The copyright to this material is held by Liberty Fund unless otherwise
+indicated. It is made available to further the educational goals of
+Liberty Fund, Inc. and may be used freely for educational and academic
+purposes. It may not be used in any way for profit.
+
+##### <span id="chapter-3.xhtml#chapter-3-sh5"></span>About the OLL and Liberty Fund
+
+The <span class="c2">Online Library of Liberty</span> is a project of
+Liberty Fund, Inc., a private educational foundation established in 1960
+to encourage the study of the ideal of a society of free and responsible
+individuals. The OLL website has a large collection of books and study
+guides about individual liberty, limited constitutional government, the
+free market, and peace.
+
+Liberty Fund: \<www.libertyfund.org\>.
+
+OLL: \<oll.libertyfund.org\>.
+
+ 
+
+</div>
+
+<span id="footnotes.xhtml"></span>
+
+<div class="body">
+
+<span id="footnotes.xhtml#footnote1"></span></a>
+[<span class="c3">^1^</span>](#chapter-2.xhtml#footnote-ref1) “The
+Spirit of the Age” (<span class="c2">The Examiner,</span> 1831) in <span
+class="c2">The Collected Works of John Stuart Mill, Volume XXII -
+Newspaper Writings December 1822 - July 1831 Part I,</span> ed.  Ann P.
+Robson and John M. Robson, Introduction by Ann P. Robson and John M.
+Robson (Toronto: University of Toronto Press, London: Routledge and
+Kegan Paul, 1986). Part I (9 Jan. 1831)
+\<http://oll.libertyfund.org/title/256/50800\>, Part V (1) (15 May,
+1831) \<http://oll.libertyfund.org/title/256/50860\>, Part V (2) (29
+May, 1831) \<http://oll.libertyfund.org/title/256/50868\>.
+
+\
+
+</div>
