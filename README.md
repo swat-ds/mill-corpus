@@ -30,3 +30,9 @@ David Blei, 2012, [Probabilistic Topic Models](http://www.cs.princeton.edu/~blei
 Megan Brett, 2012, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
 
 Scott Weingart, 2011, [Topic Modeling and Network Analysis](http://www.scottbot.net/HIAL/?p=221)
+
+Matthew Kirschenbaum, 2009. [The Remaking of Reading: Data Mining and the Digital Humanities](http://www.csee.umbc.edu/~hillol/NGDM07/abstracts/talks/MKirschenbaum.pdf)
+
+Scott Weingart, 2012, [The Myth of Text Analytics and Unobtrusive Measurement](http://www.scottbot.net/HIAL/?p=16713)
+
+
