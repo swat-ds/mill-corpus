@@ -11,11 +11,25 @@ Much of this tutorial is cribbed from Graham, Weingart and Milligan's great post
 
 #### Loading Data
 
-`./bin/mallet import-dir --input /users/username/database/ --output tutorial.mallet --keep-sequence --remove-stopwords`
+```
+./bin/mallet import-dir \
+--input [path to your text files] \
+--output tutorial.mallet \
+--keep-sequence \
+--remove-stopwords
+```
 
 #### Training Topics
 
-`bin\mallet train-topics  --input tutorial.mallet`
+```
+bin\mallet train-topics  \
+--input [path to mallet file] \
+--num-topics 20 \
+--optimize-interval 20 \
+--output-state topic-state.gz [output file for all words] \
+--output-topic-keys [output file for topics].txt \
+--output-doc-topics [output file for topics per docs].txt 
+```
 
 
 ### (Informal) Bibliography of Useful Articles/Posts on Topic Modeling
