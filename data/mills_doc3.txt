@@ -1,55 +1,3 @@
-<span id="chapter-1.xhtml"></span>
-
-<div class="body" style="white-space:pre-wrap">
-
-### <span class="c1">Editor’s</span> Introduction
-
- 
-
-John Stuart Mill (1806-1873) was the precocious child of the
-Philosophical Radical and Benthamite James Mill. He was taught Greek,
-Latin, and political economy at an early age and spent his youth in the
-company of the Philosophic Radicals, Benthamites and utilitarians who
-gathered around his father James. J.S. Mill went on to become a
-journalist, Member of Parliament, political economist, and philosopher
-and is regarded as one of the most significant English classical
-liberals of the 19th century. His important books include <span
-class="c2">A System of Logic</span> (1843), <span class="c2">The
-Principles of Political Economy: with some of their applications to
-social philosophy</span> (1848), <span class="c2">On Liberty</span>
-(1859), <span class="c2">Considerations on Representative
-Government</span> (1861), <span class="c2">Utilitarianism</span> (1863),
-and <span class="c2">The Subjection of Women</span> (1869).
-
-Mill was only 25 when he wrote this essay (he refers to himself in
-passing in the essay as “a man of six and twenty years”) and he was
-still very much under the influence of the Benthamites led by his father
-James Mill. The latter had led the push for the democratic reform of the
-British political system and they were on the verge of achieving the
-first major step towards that goal with the passage of the First Reform
-Act of June 1832 which expanded the English electorate to include middle
-class voters. This ushered in a period of liberal reform which was
-crowned by the repeal of the protectionist Corn Laws in 1846. When Mill
-wrote “The Spirit of the Age” he could sense that British society was
-about to enter a period of reform which would be dominated by the
-politically active middle class guided by classical liberal ideas.
-
-This extract includes the first and fifth parts of a long essay which
-appeared in <span class="c2">The Examiner</span> between January and May
-1831. Mill believed that English society had entered an “age of
-transition” in which the ideas and the ruling elites of the old society
-were no longer able to provide the direction the country needed. New
-ideas and new men were about to step forward and introduce “one of the
-greatest revolutions of which history has preserved remembrance, in the
-human mind, and the whole constitution of human society.” Of course,
-Mill thought that he would be one of those who would assist in the
-creation of that new society with his writings and his political
-activity in the British parliament.
-
- 
-
- 
-
 “A change has taken place in the human mind; a change which, being
 effected by insensible gradations, and without noise, had already
 proceeded far before it was generally perceived. When the fact disclosed
@@ -66,25 +14,7 @@ the era of one of the greatest revolutions of which history has
 preserved the remembrance, in the human mind, and in the whole
 constitution of human society.”
 
- 
 
- 
-
-\
-
-</div>
-
-<span id="chapter-2.xhtml"></span>
-
-<div class="body" style="white-space:pre-wrap">
-
-### <span class="c2">The Spirit of the Age</span> (1831)<span id="chapter-2.xhtml#footnote-ref1">[<span class="c3">^1^</span>](#footnotes.xhtml#footnote1)</span>
-
- 
-
-##### <span id="chapter-2.xhtml#chapter-2-sh1"></span>PART I [EXAMINER, 9 JAN., 1831]
-
- 
 
 The “spirit of the age” is in some measure a novel expression. I do not
 believe that it is to be met with in any work exceeding fifty years in
@@ -704,13 +634,6 @@ last!
 It remains to trace the history of moral influence in the nations of
 Europe, subsequently to the Reformation.
 
- 
-
- 
-
-##### <span id="chapter-2.xhtml#chapter-2-sh3"></span>PART V [Part 2] [EXAMINER, 29 MAY, 1831]
-
- 
 
 In the countries which remained Catholic, but where the Catholic
 hierarchy did not retain sufficient moral ascendancy to succeed in
@@ -983,11 +906,6 @@ must therefore be postponed until the interval of repose, after the
 present bustle and tumult. I shall resume my subject as early as
 possible after the passing of the Reform Bill. [2]
 
- 
-
-### Notes
-
- 
 
 [1] John Milton (1608-74), <span class="c2">Paradise Lost</span> (1667),
 Bk. VII, 1. 31; in <span class="c2">The Poetical Works</span> (London:
@@ -998,139 +916,3 @@ Reform Bill. After Parliament resumed on 14 June, the second version was
 brought in, “A Bill to Amend the Representation of the People in England
 and Wales,” 2 William IV (25 June, 1831), <span class="c2">PP,</span>
 1831, III, 9-46.
-
- 
-
- 
-
-\
-
-</div>
-
-<span id="chapter-3.xhtml"></span>
-
-<div class="body" style="white-space:pre-wrap">
-
-### Further Information
-
- 
-
-##### <span id="chapter-3.xhtml#chapter-3-sh1"></span>Source
-
-The edition used for this extract: “The Spirit of the Age” (<span
-class="c2">The Examiner</span>, 1831) in <span class="c2">The Collected
-Works of John Stuart Mill, Volume XXII - Newspaper Writings December
-1822 - July 1831 Part I,</span> ed.  Ann P. Robson and John M. Robson,
-Introduction by Ann P. Robson and John M. Robson (Toronto: University of
-Toronto Press, London: Routledge and Kegan Paul, 1986). Part I (9 Jan.
-1831) \<http://oll.libertyfund.org/title/256/50800\>, Part V (1) (15
-May, 1831) \<http://oll.libertyfund.org/title/256/50860\>, Part V (2)
-(29 May, 1831) \<http://oll.libertyfund.org/title/256/50868\>.
-
-Copyright: The online edition of the <span class="c2">Collected
-Works</span> is published under licence from the copyright holder, The
-University of Toronto Press. ©2006 The University of Toronto Press. All
-rights reserved. No part of this material may be reproduced in any form
-or medium without the permission of The University of Toronto Press.
-
- 
-
-##### <span id="chapter-3.xhtml#chapter-3-sh2"></span>Further Reading
-
-Other works by John Stuart Mill (1806-1873)
-\<oll.libertyfund.org/person/21\>.
-
-School of Thought: Utilitarians ???
-
- 
-
- 
-
-“The distinctive principle of Western social philosophy is
-individualism. It aims at the creation of a sphere in which the
-individual is free to think, to choose, and to act without being
-restrained by the interference of the social apparatus of coercion and
-oppression, the State.”\
-[Ludwig von Mises, “Liberty and Property” (1958)]
-
- 
-
- 
-
-<div
-style="display:inline-block;vertical-align:baseline;width:18.162%;">
-
-![image.png](images/image.png)
-
-</div>
-
-</p>
-##### <span id="chapter-3.xhtml#chapter-3-sh3"></span>About the Best of the OLL
-
-<span class="c2">The Best of the Online Library of Liberty</span> is a
-collection of some of the most important material in the Online Library
-of Liberty. They are chapter length extracts which have been formatted
-as pamphlets in <span class="c4">PDF, </span> <span
-class="c4">ePub</span>, and <span class="c4">Kindle</span> formats for
-easier distribution. These extracts are designed for use in the
-classroom and discussion groups, or material for a literature table for
-outreach. The full list can be found here
-\<oll.libertyfund.org/title/2465\>.
-
-A subset of <span class="c2">The Best of the OLL</span> is <span
-class="c2">The Best of Bastiat</span> which is a collection of some of
-the best material in Liberty Fund's 6 volume edition of <span
-class="c2">The Collected Works of Frédéric Bastiat</span> (2011-). The
-full list can be found here \<oll.libertyfund.org/title/2477\>.
-
-Another useful sampling of the contents of the OLL website is the
-collection of weekly <span class="c2">Quotations about Liberty and
-Power</span> which are organized by themes such as Free Trade, Money and
-Banking, Natural Rights, and so on. See for example, Richard Cobden’s “I
-have a dream” speech \<oll.libertyfund.org/quote/326\>.
-
- 
-
-##### <span id="chapter-3.xhtml#chapter-3-sh4"></span>Copyright and Fair Use
-
-The copyright to this material is held by Liberty Fund unless otherwise
-indicated. It is made available to further the educational goals of
-Liberty Fund, Inc. and may be used freely for educational and academic
-purposes. It may not be used in any way for profit.
-
-##### <span id="chapter-3.xhtml#chapter-3-sh5"></span>About the OLL and Liberty Fund
-
-The <span class="c2">Online Library of Liberty</span> is a project of
-Liberty Fund, Inc., a private educational foundation established in 1960
-to encourage the study of the ideal of a society of free and responsible
-individuals. The OLL website has a large collection of books and study
-guides about individual liberty, limited constitutional government, the
-free market, and peace.
-
-Liberty Fund: \<www.libertyfund.org\>.
-
-OLL: \<oll.libertyfund.org\>.
-
- 
-
-</div>
-
-<span id="footnotes.xhtml"></span>
-
-<div class="body">
-
-<span id="footnotes.xhtml#footnote1"></span></a>
-[<span class="c3">^1^</span>](#chapter-2.xhtml#footnote-ref1) “The
-Spirit of the Age” (<span class="c2">The Examiner,</span> 1831) in <span
-class="c2">The Collected Works of John Stuart Mill, Volume XXII -
-Newspaper Writings December 1822 - July 1831 Part I,</span> ed.  Ann P.
-Robson and John M. Robson, Introduction by Ann P. Robson and John M.
-Robson (Toronto: University of Toronto Press, London: Routledge and
-Kegan Paul, 1986). Part I (9 Jan. 1831)
-\<http://oll.libertyfund.org/title/256/50800\>, Part V (1) (15 May,
-1831) \<http://oll.libertyfund.org/title/256/50860\>, Part V (2) (29
-May, 1831) \<http://oll.libertyfund.org/title/256/50868\>.
-
-\
-
-</div>
