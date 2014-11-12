@@ -19,16 +19,16 @@ Much of this tutorial is cribbed from Graham, Weingart and Milligan's great post
 --remove-stopwords
 ```
 
-#### Training Topics
+#### Training Topics & Outputting Data
 
 ```
 bin\mallet train-topics  \
 --input [path to mallet file] \
 --num-topics 20 \
 --optimize-interval 20 \
---output-state topic-state.gz [output file for all words] \
---output-topic-keys [output file for topics].txt \
---output-doc-topics [output file for topics per docs].txt 
+--output-state topic-state.gz [output path for all words] \
+--output-topic-keys [output path for topics].txt \
+--output-doc-topics [output path for topics per docs].txt 
 ```
 
 
