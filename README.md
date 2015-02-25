@@ -7,7 +7,7 @@ using [Pandoc](http://johnmacfarlane.net/pandoc)
 
 ### Using MALLET: the main commands
 
-Much of this tutorial is cribbed from Graham, Weingart and Milligan's great post on [Getting Started with Topic Modeling](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
+Much of this tutorial is cribbed from Graham, Weingart and Milligan's great post on [Getting Started with Topic Modeling](http://programminghistorian.org/lessons/topic-modeling-and-mallet) as well as [the MALLET documentation](http://mallet.cs.umass.edu/topics.php)
 
 #### Loading Data
 
@@ -25,6 +25,7 @@ Much of this tutorial is cribbed from Graham, Weingart and Milligan's great post
 bin\mallet train-topics  \
 --input [path to mallet file] \
 --num-topics 20 \
+-- num-iterations 20 \
 --optimize-interval 20 \
 --output-state topic-state.gz [output path for all words] \
 --output-topic-keys [output path for topics].txt \
