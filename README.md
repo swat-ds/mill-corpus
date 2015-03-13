@@ -22,7 +22,7 @@ Much of this tutorial is cribbed from Graham, Weingart and Milligan's great post
 #### Training Topics & Outputting Data
 
 ```
-bin\mallet train-topics  \
+./bin/mallet train-topics  \
 --input [path to mallet file] \
 --num-topics 20 \
 --num-iterations 20 \
